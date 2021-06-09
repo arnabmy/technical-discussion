@@ -1,2 +1,4 @@
 # technical-discussion
-sharing ideas 
+
+
+## Ideas
